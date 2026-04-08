@@ -83,7 +83,6 @@ Para que um terceiro consiga reproduzir o funcionamento do laboratorio, este rep
 
 ## Links de entrega
 
-- Video 1: adicionar link
-- Video 2: adicionar link
-- Repositorio GitHub: adicionar link
+- Video 1: [Exercícios 1 e 2](https://youtu.be/irUXeHPViIE)
+- Video 2: [Exercício 3](https://youtu.be/wncLEYETfGA)
 
