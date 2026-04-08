@@ -8,6 +8,7 @@ Este projeto foi desenvolvido para o **LAB03 - Socket UDP e TCP**, contemplando 
 
 - Lucas Carmo RA:10439830
 - Artur Campi RA:10436740
+- Guillermo Martinez RA:10418697
 
 ## Objetivo do laboratorio
 
